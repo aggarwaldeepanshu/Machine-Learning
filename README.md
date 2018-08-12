@@ -2,6 +2,7 @@
 This repository shows analysis of Titanic disaster problem on Kaggle. It includes IPython Notebook.The Notebook invloves:
 
 Python Packages
+
     • Numpy
     
     • Pandas
@@ -9,6 +10,7 @@ Python Packages
     • Matplotlib
     
 Data Handling
+
     • To import the data from train and test dataset using pandas.
     
     • To clean the data using numpy.
@@ -16,6 +18,7 @@ Data Handling
     • To visualize the data using matplotlib.
     
 Results
+
     • Various Supervised Machine Learning Algorithms are used ta analyse the results:
     
     1. Logistic Regression
