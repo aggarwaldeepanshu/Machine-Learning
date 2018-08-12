@@ -5,10 +5,12 @@ Python Packages
     • Numpy
     • Pandas
     • Matplotlib
+    
 Data Handling
     • To import the data from train and test dataset using pandas.
     • To clean the data using numpy.
     • To visualize the data using matplotlib.
+    
 Results
     • Various Supervised Machine Learning Algorithms are used ta analyse the results:
     1. Logistic Regression
