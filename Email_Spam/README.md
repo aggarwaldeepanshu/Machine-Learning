@@ -1,4 +1,4 @@
-# Spam Classifier
+# Email Classifier
 
 This repository consist of a IPython Notebook in which various emails are classified as ‘Spam’ or ‘Not Spam’.
 
